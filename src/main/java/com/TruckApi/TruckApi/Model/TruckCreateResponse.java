@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class TruckCreateResponse {
-
 	private String status;
 	private String transporterId;
 	private String truckId;
